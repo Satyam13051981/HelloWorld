@@ -1,6 +1,10 @@
 class HelloWorld{
 
 public static void main(String args []){
-    System.out.println("Hello World");
+    int x=5;
+    int y=8;
+    int result;
+    result = x+y;
+    System.out.println("Sum :"+ result);
  }
 }
